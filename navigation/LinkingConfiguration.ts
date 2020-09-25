@@ -16,6 +16,11 @@ export default {
               TabTwoScreen: 'two',
             },
           },
+          TabThree: {
+            screens: {
+              CalendarExample: 'calendar',
+            },
+          }
         },
       },
       NotFound: '*',
